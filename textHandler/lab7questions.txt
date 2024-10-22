@@ -1,0 +1,254 @@
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
+
+Lab7 Canvas Questions
+
+1.
+Pometheus is a system monitoring and alterting program. It collects metrics from running jobs on the system. It uses PromQL for querying.
+
+2.
+Grafana is an analytics web application. It can be used to hook up to various data generating programs such as prometheus to visualize data in useful dashboards.
+
+3.
+Prometheus is very useful if you need to track the analytics of running jobs on your system. It can also alert you for specific useful situations (i.e. in case one job is taking a lot of extra time). It's flexibility and ability to be used with many data visualization softwares such as grafana makes it an ideal choice for systems monitoring.
+
+4.
+I can see these tools becoming very useful at a large scale, with a complex system. I believe it is becoming a lot more popular in the development world to scale applications through the microservice model (I believe doordash just switched from monolith to micro). When you have a bunch of different microservices running together to make one app work, you need to have detailed data on them for optimization, and you certainly need to be altered if a service goes down or has some issue. These tools address these issues and allow for all data to be in one place.
+
+5.
+Maybe it is because I have not finished the course yet, so I am not an educated linux system administrator, but these tools seem a little overkill for personal usage. I mean I can think of a few usages for prometheus monitoring and collecting data, but this lab seems like the best personal use case. Just using docker to play with them a little more so you can understand how they work. I do not have any personal projects that require complex data collection, altering, and visualization.
