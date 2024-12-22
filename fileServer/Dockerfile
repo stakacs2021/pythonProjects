@@ -17,7 +17,9 @@ COPY . .
 RUN mkdir -p uploads
 
 # 7) Expose the server port
-ENV PORT=8080
+EXPOSE 8080
 
 # 8) Run the application
 CMD ["node", "server.js"]
+
+#/Users/stephantakacs/Documents/fileServer/files
