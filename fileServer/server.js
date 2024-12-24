@@ -5,8 +5,12 @@ const fs = require("fs");
 
 const app = express();
 
-// Enable file uploads
-app.use(fileUpload());
+// Enable file uploads now with 100mb
+app.use(
+  fileUpload({
+    limits: { fileSize: 100 * 1024 * 1024 }, // 100 MB
+  }),
+);
 
 // Serve the "uploads" folder statically (so files can be downloaded directly)
 app.use(express.static(path.join(__dirname, "uploads")));
