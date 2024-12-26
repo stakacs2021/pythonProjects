@@ -1,0 +1,77 @@
+version: "3.8"
+services:
+  reverse-proxy:
+    image: nginx:alpine
+    container_name: reverse-proxy
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      # Mount your custom Nginx configuration
+      - ./proxy/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./proxy/sites/:/etc/nginx/conf.d:ro
+      # Let's Encrypt / Certbot certificates and keys
+      - ./certbot/www/:/var/www/certbot/:rw
+      - ./certbot/conf/:/etc/letsencrypt/:rw
+    depends_on:
+      - fileexchange
+      - mailserver
+      - webmail
+    networks:
+      - app-network
+
+  certbot:
+    image: certbot/certbot:latest
+    container_name: certbot
+    volumes:
+      - ./certbot/www/:/var/www/certbot/:rw
+      - ./certbot/conf/:/etc/letsencrypt/:rw
+    entrypoint: "/bin/bash"
+    # We'll run certbot commands manually or via cron job
+    networks:
+      - app-network
+
+  fileexchange:
+    build: ./fileexchange
+    container_name: fileexchange
+    restart: always
+    networks:
+      - app-network
+
+  mailserver:
+    image: docker.io/mailserver/docker-mailserver:latest
+    container_name: mailserver
+    hostname: mail
+    domainname: www.filecabinetst.live
+    env_file:
+      - ./mail/mailserver.env
+    volumes:
+      - ./mail/maildata/:/var/mail
+      - ./mail/mailstate/:/var/mail-state
+      - ./mail/maillogs/:/var/log/mail
+      - ./mail/config/:/tmp/docker-mailserver/
+    ports:
+      - "25:25"
+      - "587:587"
+      - "993:993"
+    cap_add:
+      - NET_ADMIN
+    restart: always
+    networks:
+      - app-network
+
+  webmail:
+    image: roundcube/roundcubemail:latest
+    container_name: roundcube
+    environment:
+      - ROUNDCUBE_DEFAULT_HOST=mail.filecabinetst.live
+      - ROUNDCUBE_SMTP_SERVER=mail.filecabinetst.live
+    depends_on:
+      - mailserver
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
