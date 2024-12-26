@@ -4,7 +4,7 @@ const path = require("path");
 const fs = require("fs");
 
 const app = express();
-
+// new comp server: takServer usr: takServerAdmin pw: 73lyn5h45
 // Enable file uploads now with 100mb
 app.use(
   fileUpload({
